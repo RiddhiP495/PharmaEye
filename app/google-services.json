@@ -1,62 +1,33 @@
 {
   "project_info": {
-    "project_number": "559503512374",
-    "project_id": "androidproje-24384",
-    "storage_bucket": "androidproje-24384.appspot.com"
+    "project_number": "562344454783",
+    "project_id": "pharmaeye-d4e9f",
+    "storage_bucket": "pharmaeye-d4e9f.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:559503512374:android:93e2ae35b149b6f2cb9997",
+        "mobilesdk_app_id": "1:562344454783:android:1a7a7d7bf44c3e0ef86d4a",
         "android_client_info": {
           "package_name": "com.example.pharmaeye"
         }
       },
       "oauth_client": [
         {
-          "client_id": "559503512374-nj2c1ddft81mr5e813l7rg27eucnnb84.apps.googleusercontent.com",
+          "client_id": "562344454783-s7b8k3hpnp7b49kpj4hqnnh9jo8ssh7k.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBRrEjOk-FDfQaROjqTnCil2swl8ls7qO0"
+          "current_key": "AIzaSyDBTNxlW5CmRg3di3cPdUDvhUVKz30kIRk"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "559503512374-nj2c1ddft81mr5e813l7rg27eucnnb84.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:559503512374:android:897e47e0a4bc4199cb9997",
-        "android_client_info": {
-          "package_name": "com.jk.demofirebase"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "559503512374-nj2c1ddft81mr5e813l7rg27eucnnb84.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyBRrEjOk-FDfQaROjqTnCil2swl8ls7qO0"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "559503512374-nj2c1ddft81mr5e813l7rg27eucnnb84.apps.googleusercontent.com",
+              "client_id": "562344454783-s7b8k3hpnp7b49kpj4hqnnh9jo8ssh7k.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
