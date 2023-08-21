@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">PharmaEye</string>
+    <string name="create_account">Create Account</string>
+    <string name="enter_confirm_password">Enter Confirm Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="password">Password</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="email">Email</string>
+    <string name="remember_me">Remember ME</string>
+    <string name="prescription_information">Prescription Information</string>
+    <string name="enter_patient_name">Enter Patient Name</string>
+    <string name="enter_healthcard_num">Enter HealthCard Num</string>
+    <string name="select_drug">Select Drug</string>
+    <string name="add">Add</string>
+    <string name="due_by">Due By</string>
+    <string name="prescribed_by_name">Prescribed By Name</string>
+</resources>

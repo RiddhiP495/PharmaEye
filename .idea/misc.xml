@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/layout/activity_add_patient.xml" value="0.28518310546875003" />
+        <entry key="app/src/main/res/layout/activity_add_prescription.xml" value="0.25260620117187516" />
+        <entry key="app/src/main/res/layout/activity_home.xml" value="0.22112172444661454" />
+        <entry key="app/src/main/res/layout/activity_sign_in.xml" value="0.21129913330078126" />
+        <entry key="app/src/main/res/layout/activity_sign_up.xml" value="0.28125" />
+        <entry key="app/src/main/res/layout/custom_row_layout_patient.xml" value="0.19431915283203122" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
